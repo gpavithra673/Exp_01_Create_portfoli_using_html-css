@@ -370,8 +370,7 @@ body{
 }
 ```
 ## OUTPUT:
-![Screenshot (59)](https://github.com/gpavithra673/Exp_01_Create_portfoli_using_html-css/assets/93427264/9137fc51-899a-4d52-8420-7924b31c2d80)
-
+![image](https://github.com/gpavithra673/Exp_01_Create_portfoli_using_html-css/assets/93427264/56c2e464-af7b-4b40-802e-cc2514c53115)
 ![image](https://github.com/gpavithra673/Exp_01_Create_portfoli_using_html-css/assets/93427264/32402ad8-3c00-4e5d-b031-f11abb05aa15)
 
 ## RESULT:
